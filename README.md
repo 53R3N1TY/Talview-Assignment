@@ -13,7 +13,7 @@ git clone https://github.com/53R3N1TY/Talview-Assignment-Back.git
 // follow README.md file instructions
 
 ## Update config.js file
-// replace ngrok url at line 1 and line 11 with your new ngrok URL
+// replace ngrok url at line 1 with your new ngrok URL
 
 
 ## Run
